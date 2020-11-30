@@ -10,6 +10,6 @@ I am a data scientist that trying to be a better coder.
 
 
 Recently, I make this plot with R. (Haven't used R for quite some time.)
-![image](rayshader_hk.png)
+![image](images/rayshader_hk.png)
 
 Plot with rayshader in R, data from USGS Landsat 8 + 30m resolution SRTM DEM data
