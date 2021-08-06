@@ -14,12 +14,16 @@ Recently, I make this plot with R. (Haven't used R for quite some time.)
 
 Plot with rayshader in R, data from USGS Landsat 8 + 30m resolution SRTM DEM data
 
+# Developer Principles
+* TDD - **T**rust-**D**riven **D**evelopment (Don't Test, Don't Commit, Trust your colleagus and yourself)
+
+
+
 I like to learn stuff about data science, how application is built around them, and any useful stuff that make data science easier (hm... usually it's about how to get data easily and efficiently)
 
 Things I want to read/learn in 2021:
 1. Design Data Intensive Application
 2. High Performance Python: Practical Performant Programming for Humans
-3. Cloudera Impala (I need to use Impala for my work) or any advance SQL tuning book
-4. K8s/Kubeflow-  how is it useful for a data scientist
-5. (My recent interest) Data Discovery, Lyft's Amundsen and LinkedIn's DataHub is pretty interesting, I am interested in meta-query of queries, understand how dataset is used and how we can share insight more efficiently other than Data Catalog's schema information. Looking for dataset for query logs!
+3. System Design
+4. Do some LeetCode
 
