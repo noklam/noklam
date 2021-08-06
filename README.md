@@ -14,7 +14,7 @@ Recently, I make this plot with R. (Haven't used R for quite some time.)
 
 Plot with rayshader in R, data from USGS Landsat 8 + 30m resolution SRTM DEM data
 
-# Developer Principles
+# Some Developer Principles I Learnt over the years
 * TDD - **T**rust-**D**riven **D**evelopment (Don't Test, Don't Commit, Trust your colleagus and yourself)
 
 
