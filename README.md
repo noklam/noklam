@@ -21,6 +21,16 @@ I like to learn stuff about data science, how application is built around them, 
 2. High Performance Python: Practical Performant Programming for Humans
 3. System Design (https://github.com/donnemartin/system-design-primer)
 4. Do some LeetCode - finished 200 Questions and can solve most medium level question comfortably.
+5. Clean Code in Python: Refactor your legacy code base
+6. Advanced Python Programming: Build high performance, concurrent, and multi-threaded apps with Python using proven design patterns
+
+# Others
+I feel like it would be interesting to learn some low level programming language as I think that knowing Python only is missing out a lot. It's always great to have more options.
+
+1. Basic C++ to prepare for my remote GeorgiaTech CS Master, I really want to brush up some CS basics like OS/compiler/DB/network 
+2. A bit of Rust
+
+If you know some good resource to learn C++/Rust for a Python programmer, please let me know!
 
 Recently, I make this plot with R. (Haven't used R for quite some time.)
 ![image](images/rayshader_hk.png)
