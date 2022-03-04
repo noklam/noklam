@@ -27,8 +27,7 @@ I like to learn stuff about data science, how application is built around them, 
 # Others
 I feel like it would be interesting to learn some low level programming language as I think that knowing Python only is missing out a lot. It's always great to have more options.
 
-1. Basic C++ to prepare for my remote GeorgiaTech CS Master, I really want to brush up some CS basics like OS/compiler/DB/network 
-2. A bit of Rust
+1. I really want to brush up some CS basics like OS/compiler/DB/network 
 
 If you know some good resource to learn C++/Rust for a Python programmer, please let me know!
 
