@@ -9,7 +9,7 @@ Data Practitioner, Software Engineer
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=noklam&show_icons=true" alt="noklam" /></p>
 
 
-<p align="left"> <img src="https://github.com/noklam/github_metrics/blob/main/github-metrics.svg" alt="noklam" /> </p> 
+# <p align="left"> <img src="https://github.com/noklam/github_metrics/blob/main/github-metrics.svg" alt="noklam" /> </p> 
 
 
 Recently, I make this plot with R. (Haven't used R for quite some time.)
